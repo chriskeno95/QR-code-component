@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This README contains links to view my attempt at the QR component challege provided by Frontend Mentor. I was tasked with recreating the component so that it looked like the design brief.
  I have used what i have learned during my front end web development bootcamp course that i have recently started.
 ### Screenshot
-![](../QR-code-component/images/my-QR-screenshot.png)
+![](./images/my-QR-screenshot.png)
 
 
 ### Links
